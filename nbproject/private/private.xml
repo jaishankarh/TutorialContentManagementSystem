@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/mycms/cms.incs/basics.php</file>
+            <file>file:/var/www/mycms/cms.incs/login-libs.php</file>
+            <file>file:/var/www/mycms/cms.incs/login.php</file>
+            <file>file:/var/www/mycms/cms.user/index.php</file>
+            <file>file:/var/www/mycms/index.php</file>
+            <file>file:/var/www/mycms/cms.user/accounts/user-settings.php</file>
+            <file>file:/var/www/mycms/cms.user/accounts/mainContent.php</file>
+            <file>file:/var/www/mycms/cms.user/tutorials/index.php</file>
+            <file>file:/var/www/mycms/cms.user/sidebarRight.php</file>
+            <file>file:/var/www/mycms/cms.user/sidebarLeft.php</file>
+            <file>file:/var/www/mycms/cms.user/tutorials/actions.php</file>
+            <file>file:/var/www/mycms/cms.admin/index.php</file>
+            <file>file:/var/www/mycms/cms.admin/users.php</file>
+            <file>file:/var/www/mycms/cms.admin/users/actions.php</file>
+            <file>file:/var/www/mycms/cms.admin/authors.php</file>
+            <file>file:/var/www/mycms/cms.admin/authors/actions.php</file>
+            <file>file:/var/www/mycms/cms.admin/users/list.php</file>
+            <file>file:/var/www/mycms/cms.admin/users/form.php</file>
+            <file>file:/var/www/mycms/cms.admin/theme/admin.css</file>
+        </group>
+    </open-files>
+</project-private>

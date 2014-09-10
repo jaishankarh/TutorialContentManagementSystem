@@ -1,0 +1,31 @@
+.left-sidemenu{
+            background-color: azure;
+            position: absolute;
+            left:1%;
+            border: 2px solid #1a1a1a;
+            margin: 10px;
+            width: 200px;
+            padding: 10px;
+            display:inline-block;
+        }
+.content{
+    background-color: azure;
+    position:absolute;
+    left:22%;
+    border: 2px solid #1a1a1a;
+    margin: 10px;
+    width: 700px;
+    padding: 10px;
+    display:inline-block;
+}
+.right-sidemenu{
+    background-color: azure;
+            position:absolute;
+            left:80%;
+            margin:10px;
+            border: 2px solid #1a1a1a;
+            width: 200px;
+            padding: 10px;
+            display:inline-block;
+            
+        }
